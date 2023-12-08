@@ -1,1 +1,1 @@
-# Python
+This is a repository for python, made by Akhil Akella. This is a practice, that I am learning from.
