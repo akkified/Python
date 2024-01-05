@@ -1,0 +1,1 @@
+int(input("What do you want to calculate?"))
