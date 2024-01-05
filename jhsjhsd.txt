@@ -1,0 +1,3 @@
+number1 = int(input("What is the first number in your calculation? "))
+number2 = int(input("What is the second number in your calculation? "))
+operation = input("What operation are you going to calculate? (Add, Subtract, Multiply, Divide) ")
