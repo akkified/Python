@@ -12,4 +12,3 @@ def calc(num1,num2):
         print("You entered the wrong operation!")
 
 print(calc(float(input("What is your first number? ")),float(input("What is your second number? "))))
-
